@@ -1,6 +1,6 @@
 <h2 align="center">
-  Rahul Jha | Portfolio Website<br/>
-  <a href="https://www.rahuljha.info/" target="_blank">rahul jha</a>
+   | Portfolio Website<br/>
+ 
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme_img.png" />
@@ -9,9 +9,6 @@
 <br/>
 
 <div align="center">
-
-![GitHub Repo stars](https://img.shields.io/github/stars/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge)
 
 </div>
 
